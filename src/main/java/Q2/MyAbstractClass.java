@@ -2,6 +2,7 @@ package Q2;
 
 abstract class MyAbstractClass {
 
+
     abstract void print();
     public void display(){
         System.out.println("Displaying AbstractDemo");
